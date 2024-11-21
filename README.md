@@ -4,66 +4,36 @@
 
 ## Descripción
 
-**[Nombre del Proyecto]** es una aplicación diseñada para _[breve descripción de lo que hace el proyecto]_. Su propósito principal es _[explicación del objetivo o la solución que ofrece]_.
+**Manual de usuario de Presupuestito** es una aplicación diseñada para _La creacion y gestion de presupuestos_. Su propósito principal es _Permitir una gestion sencilla de presupuestos orientada a una empresa de Muebles a medida_. Este manual de usuario está destinado a guiarte en el uso de un programa informático en desarrollo, diseñado para la creación y gestión de presupuestos de manera eficiente. Actualmente en fase de desarrollo, con una finalización prevista para el año 2025, el software busca ofrecer una herramienta flexible y fácil de usar. A lo largo de este documento, se explicarán las funciones disponibles en la versión actual, brindando una visión general de sus capacidades, mientras que futuras actualizaciones agregarán más características y optimizarán su rendimiento para adaptarse mejor a las necesidades del usuario.
 
-## Características
+## Características Actuales
 
-- **Funcionalidad 1**: _Descripción breve de la funcionalidad 1._
-- **Funcionalidad 2**: _Descripción breve de la funcionalidad 2._
-- **Funcionalidad 3**: _Descripción breve de la funcionalidad 3._
+- **Crear, editar y borrar clientes**
+- **Crear, editar y borrar presupuestos**
+- **Crear, editar y borrar trabajos en el presupuesto**
+- **Crear, editar y borrar materiales dentro del trabajo**
+- **Crear y asociar materiales a un subrubro**
+- **Crear, editar y borrar rubros y subrubros**
+- **Crear, editar y borrar proveedores**
+- **Crear, editar y borrar facturas de compra de materiales**
+- **Añadir materiales previamente cargados a una factura**
+
+## Características Futuras
+
+- **Cargar pagos de presupuestos, facturas y salarios**
+- **Cargar costos fijos y variables**
+- **Crear, editar y borrar Empleados**
+- **Gestión de inventario**
+
 
 ## Instalación
 
-Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/nombre-del-proyecto.git
-    ```
-2. Entra en el directorio del proyecto:
-    ```bash
-    cd nombre-del-proyecto
-    ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
-4. Ejecuta el proyecto:
-    ```bash
-    npm start
-    ```
 
 ## Uso
 
-Una vez que la aplicación esté en funcionamiento, puedes acceder a ella desde `http://localhost:3000`. Navega por las diferentes funcionalidades de la aplicación a través del menú principal.
 
-## Contribución
+## Integrantes del proyecto:
 
-Si deseas contribuir a este proyecto, sigue estos pasos:
 
-1. Haz un fork del proyecto.
-2. Crea una nueva rama con tu funcionalidad:
-    ```bash
-    git checkout -b nueva-funcionalidad
-    ```
-3. Realiza los cambios necesarios y haz un commit:
-    ```bash
-    git commit -m "Añadir nueva funcionalidad"
-    ```
-4. Sube los cambios a tu repositorio fork:
-    ```bash
-    git push origin nueva-funcionalidad
-    ```
-5. Crea un Pull Request en el repositorio principal.
 
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la Licencia].
-
-## Contacto
-
-Para cualquier duda o comentario, puedes contactarnos en:
-
-- **Correo:** contacto@proyecto.com
-- **Página Web:** [www.proyecto.com](http://www.proyecto.com)
-- **Twitter:** [@proyecto](https://twitter.com/proyecto)
