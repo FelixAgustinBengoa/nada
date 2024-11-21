@@ -1,4 +1,4 @@
-# Proyecto: [Nombre del Proyecto]
+# Manual de usuario de Presupuestito
 
 ![Logo](https://diezk.com/wp-content/uploads/2021/06/presupuesto.png)
 
@@ -25,6 +25,17 @@
 - **Crear, editar y borrar Empleados**
 - **Gestión de inventario**
 
+## Listado de Pantallas
+- **Sección: Presupuestar**
+- **Sección: Trabajos**
+- **Sección: Clientes**
+- **Sección: Materiales**
+- **Sección: Detalles del cliente**
+- **Sección: Detalles del presupuesto**
+- **Sección: Editar cliente**
+- **Sección: Editar presupuesto**
+- **Sección: Editar Proveedor**
+- **Sección: Detalles de la factura**
 
 ## Instalación
 
@@ -34,6 +45,5 @@
 
 
 ## Integrantes del proyecto:
-
 
 
